@@ -1,5 +1,8 @@
 # online-chat with websocket (socket.io)
 
+This is an online chat project developed on React:react: and Nest. This chat allows you to communicate with friends in private messages, and create group chats.
+Message passing is implemented using the websocket protocol (socket.io). All user data and messages are stored in the Postgres database. Authorization is implemented using JWT tokens.
+
 ## Getting Started
 
 First, run the development:
