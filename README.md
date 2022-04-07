@@ -3,7 +3,6 @@
 ## This is test Fullstack application realized by React / Nest
 
 ## Intro
-
 This is an online chat project developed on React and Nest. 
 This chat allows you to communicate with friends in private messages, and create group chats.
 Message passing is implemented using the websocket protocol (socket.io).
