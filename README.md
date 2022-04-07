@@ -17,13 +17,26 @@ All user data and messages are stored in the Postgres database. Authorization is
 
 ## Functional
 
+* Sending and receiving messages online
+* Authentication by email and password with JWT
+* Create and manage group chats
+* Search for other users
+
+## Can be developed
+
+* Personal profile of users
+* Implement the Friends subsystem (adding and removing friends)
+* Add a general news feed
+
 ## Getting Started
 
-First, run the development:
+Run the development:
 
-In directory client: `npm run dev`
+Start client: `npm run dev`
 
-In directory server: `npm run start:dev`
+Start Server: `npm run start:dev`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You also need to have Postgres on your device and configure the database according to ormconfig.ts
 
