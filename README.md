@@ -1,9 +1,17 @@
 # Online chat
 
+## This is test Fullstack application realized by React / Nest
+
+## Intro
+
 This is an online chat project developed on React and Nest. 
 This chat allows you to communicate with friends in private messages, and create group chats.
 Message passing is implemented using the websocket protocol (socket.io).
 All user data and messages are stored in the Postgres database. Authorization is implemented using JWT tokens.
+
+## Technologies and API
+
+*saf
 
 ## Getting Started
 
