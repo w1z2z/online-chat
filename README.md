@@ -1,4 +1,4 @@
-#Online chat
+# Online chat
 
 This is an online chat project developed on React and Nest. 
 This chat allows you to communicate with friends in private messages, and create group chats.
