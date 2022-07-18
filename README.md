@@ -36,6 +36,8 @@ Start client: `npm run dev`
 
 Start Server: `npm run start:dev`
 
+You also need to install a DBMS for PostgreSQL and create a database - social and configure ormconfig
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You also need to have Postgres on your device and configure the database according to ormconfig.ts
